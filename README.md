@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/AissamDjahnine/AissamDjahnine/blob/main/banner.png)]
+![MasterHead](https://github.com/AissamDjahnine/AissamDjahnine/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aissam</h1>
 <h3 align="center">Passionate Researcher Phd Candidate @ Philips AI Research Hub France</h3>
 
